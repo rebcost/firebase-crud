@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">firebase app</string>
+    <string name="upload">Upload</string>
+    <string name="download">Download</string>
+    <string name="delete">Delete</string>
+    <string name="selecionar_imagem">Selecionar Imagem</string>
+</resources>
